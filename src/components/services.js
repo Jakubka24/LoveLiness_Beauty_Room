@@ -102,7 +102,7 @@ useEffect(()=>{isMobile ? setShowArrows(false) : setShowArrows(true)},[])
             <img className=' w-[20vw] h-[45vh]' src={nails3}></img>
             <img className=' w-[20vw] h-[45vh]' src={nails4}></img>
             <img className=' w-[20vw] h-[45vh]' src={nails5}></img>
-            <img className=' w-[20vw] h-[45vh]' src={nails6}></img>
+            <img className=' w-[20vw] h-[45vh] ' src={nails6}></img>
         </Slider>
       </div>
 
