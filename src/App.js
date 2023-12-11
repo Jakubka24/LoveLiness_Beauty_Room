@@ -1,23 +1,32 @@
-import logo from './logo.svg';
 import './App.css';
 
+import { useEffect } from 'react';
+
+
+import Fotter from './components/fotter';
+import Location from './components/location';
+import Services from './components/services';
+import Stylists from './components/stylists';
+import Main from './components/main/main';
+import Podologia from './components/podiatry';
+import Training from './components/training';
+import Opinions from './components/opinions';
+
+
 function App() {
+
+
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className='flex flex-col max' >
+  <Main/>
+  <Services/>
+  <Podologia/>
+  <Stylists/>
+  <Training/>
+  <Location/>
+  <Opinions/>
+  <Fotter/> 
     </div>
   );
 }
