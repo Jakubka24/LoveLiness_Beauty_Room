@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/LoveLiness_Beauty_Room/static/css/main.06eb703d.css",
-    "main.js": "/LoveLiness_Beauty_Room/static/js/main.137a55fb.js",
+    "main.css": "/LoveLiness_Beauty_Room/static/css/main.c4a1886a.css",
+    "main.js": "/LoveLiness_Beauty_Room/static/js/main.24d25b0d.js",
     "static/js/787.633816a4.chunk.js": "/LoveLiness_Beauty_Room/static/js/787.633816a4.chunk.js",
     "static/media/certyfikat.png": "/LoveLiness_Beauty_Room/static/media/certyfikat.18227cc1e88856bde23b.png",
     "static/media/nails2.jpeg": "/LoveLiness_Beauty_Room/static/media/nails2.bb68752fa58aa3247546.jpeg",
@@ -34,12 +34,12 @@
     "static/media/slick.ttf": "/LoveLiness_Beauty_Room/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/LoveLiness_Beauty_Room/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/LoveLiness_Beauty_Room/index.html",
-    "main.06eb703d.css.map": "/LoveLiness_Beauty_Room/static/css/main.06eb703d.css.map",
-    "main.137a55fb.js.map": "/LoveLiness_Beauty_Room/static/js/main.137a55fb.js.map",
+    "main.c4a1886a.css.map": "/LoveLiness_Beauty_Room/static/css/main.c4a1886a.css.map",
+    "main.24d25b0d.js.map": "/LoveLiness_Beauty_Room/static/js/main.24d25b0d.js.map",
     "787.633816a4.chunk.js.map": "/LoveLiness_Beauty_Room/static/js/787.633816a4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.06eb703d.css",
-    "static/js/main.137a55fb.js"
+    "static/css/main.c4a1886a.css",
+    "static/js/main.24d25b0d.js"
   ]
 }
